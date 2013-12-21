@@ -1,0 +1,2341 @@
+1 1
+1971 1
+58 1
+6 1
+776 1
+a 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+abandond 1 1 1 1
+abhorrd 1 1
+abhors 1 1
+aboard 1 1 1 1 1 1 1
+above 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+absence 1 1 1 1 1 1 1 1 1 1 1 1
+absent 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+absolved 1
+absorbd 1
+abundance 1 1
+abuses 1
+acastus 1
+accepted 1 1 1 1
+accidens 1
+acheron 1
+achieved 1
+achilleid 1
+acquired 1 1 1
+act 1 1 1 1 1 1 1 1 1 1
+add 1 1 1 1
+adds 1 1 1
+adherent 1
+admire 1 1 1 1 1 1
+admits 1 1
+admittance 1
+admitting 1
+adopted 1 1 1 1
+adores 1
+adulterer 1
+adulterous 1 1 1 1
+advise 1 1 1 1 1
+advised 1 1
+aeaean 1 1
+aegypt 1
+aegyptius 1 1 1
+aeolian 1
+aerial 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+aeson 1
+aethiopia 1
+aethiopias 1 1
+affect 1 1
+affixd 1
+affright 1
+affronts 1
+africanus 1
+agamemnons 1 1
+aggregate 1 1
+aghast 1 1 1 1 1
+ago 1 1
+aiding 1
+airbred 1
+alarm 1 1
+alarmd 1
+alcinous 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+alcove 1
+alectors 1
+allcomposing 1 1
+allegorize 1
+allenlightend 1
+allowed 1
+allowing 1
+allusive 1
+ally 1
+almighty 1 1 1 1 1 1
+aloudo 1
+alpheus 1 1
+also 1 1 1 1 1 1 1 1 1
+although 1 1 1 1 1
+amber 1 1
+ambition 1
+ambitious 1
+ambush 1 1 1 1 1 1 1 1 1 1
+among 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+amphialus 1 1
+amphinomus 1
+ample 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ampler 1
+amythaon 1
+anacreon 1
+anatomist 1
+ancestor 1
+andraemons 1
+anecdotes 1
+animate 1
+animating 1 1
+annoyd 1
+anomalies 1 1
+answer 1 1 1 1 1
+antihistorical 1
+antilochus 1
+antinous 1 1 1 1 1 1 1 1 1 1
+anvil 1 1
+apollo 1 1 1 1 1 1 1
+apologue 1
+apotheosis 1
+appeals 1 1
+appease 1 1 1
+applauding 1
+applauses 1 1
+appointed 1 1 1
+appreciate 1
+appreciation 1
+arcesian 1
+architectonic 1
+arduous 1
+arete 1 1 1 1 1 1 1
+aretes 1 1 1
+aretus 1 1
+argo 1 1
+argument 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+aright 1
+armourer 1
+armshe 1
+army 1
+aromatic 1
+arrests 1
+arrivd 1
+arrogance 1
+arrows 1 1 1
+artful 1 1 1 1 1 1
+arts 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+arybas 1
+ascend 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ascribe 1
+ashes 1 1 1 1
+asiatic 1
+aspires 1
+assail 1
+assassin 1
+assay 1
+assemblage 1
+assent 1
+asserted 1
+asserts 1
+assign 1 1 1
+assist 1
+associations 1 1
+assumes 1
+asteris 1
+at 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+athenian 1 1 1 1 1 1 1 1 1
+athwart 1 1
+atoms 1
+atreus 1
+attaches 1
+attainment 1
+attempts 1
+attic 1 1
+attire 1 1
+attracted 1 1
+audience 1 1
+aught 1 1 1 1 1 1 1
+auroras 1
+author 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+authority 1
+authorizes 1
+authorship 1 1 1 1 1
+auxiliar 1 1
+averrd 1
+avert 1 1 1
+awaken 1 1
+award 1 1
+awe 1 1 1 1 1 1 1
+awes 1
+axe 1 1 1 1 1
+axle 1 1
+azure 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+bacchus 1
+bad 1 1 1 1
+bag 1
+bait 1
+ballad 1
+balls 1
+band 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+bane 1
+banish 1 1 1
+banishd 1 1 1 1 1
+bank 1 1 1 1 1 1 1
+banquets 1
+bar 1
+bards 1 1 1 1
+barking 1
+barks 1 1
+barley 1 1
+barrd 1
+barrier 1
+bars 1
+base 1 1 1 1 1 1 1 1 1 1 1 1 1
+battle 1 1 1 1 1 1 1 1 1
+bear 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+beat 1 1 1 1 1 1 1 1 1
+beauteous 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+beautys 1 1 1
+becalm 1
+bedowd 1
+begins 1 1 1 1
+beguiled 1 1
+beheld 1 1 1 1 1 1 1 1 1 1
+behest 1 1
+behold 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+beholds 1 1 1 1 1 1 1
+belief 1 1 1 1 1 1 1
+beloved 1 1 1 1 1 1 1 1 1
+below 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+bends 1 1 1 1 1 1 1 1 1 1 1 1 1
+beneficent 1
+bentleys 1
+besmear 1
+best 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+bestauthenticated 1
+bestbeloved 1
+bestows 1 1 1 1 1 1 1
+betakes 1 1
+betters 1
+beware 1 1
+bias 1
+bigudderd 1
+bitterness 1
+black 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+blacken 1
+blade 1 1 1 1
+blame 1 1 1 1
+blast 1 1 1 1 1 1 1 1 1
+blasts 1 1 1
+blessed 1 1
+blessing 1 1 1 1 1 1 1 1 1 1 1 1 1
+blest 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+blood 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+bloodpolluted 1
+bloody 1 1 1 1 1 1 1 1 1
+bloomy 1 1 1
+blows 1 1 1
+blustering 1 1
+board 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+boars 1 1 1
+boast 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+body 1 1 1 1 1 1
+bodys 1
+boethoedes 1
+bold 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+boldest 1 1 1
+boldness 1 1
+bonds 1
+books 1 1 1
+booming 1
+boots 1
+bore 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+borrowed 1
+boughs 1 1 1
+bounding 1 1 1 1 1 1 1 1 1 1 1 1 1
+bow 1 1 1 1 1 1 1 1 1 1 1 1 1
+bowd 1 1 1 1 1
+bowl 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+boys 1
+braind 1
+brand 1 1 1
+brandishd 1
+brass 1 1 1 1 1 1 1 1 1 1 1 1
+brave 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+brawny 1
+breaking 1
+breast 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+breath 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+breeze 1 1 1 1 1 1
+breezy 1 1 1
+brethren 1 1 1
+brief 1 1 1 1 1 1
+brightest 1
+brightlydawning 1
+bristled 1
+brodie 1
+broil 1
+brothers 1 1 1 1 1 1 1 1 1
+brought 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+bubbles 1
+buckler 1 1
+budding 1 1
+built 1
+bullock 1 1 1 1
+bulls 1 1
+bulwarks 1
+burnt 1
+bury 1 1 1 1
+busy 1 1 1 1 1 1 1 1 1 1
+but 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+by 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+cables 1 1 1 1
+caitiffcorse 1
+call 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+calls 1 1 1 1 1 1 1 1 1 1 1
+calmed 1
+calmness 1
+calmy 1
+calypsos 1 1 1 1 1
+camps 1
+canister 1
+canvas 1 1 1
+capabilities 1
+cape 1 1
+capital 1 1 1
+captivate 1 1
+care 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+career 1 1 1
+careless 1 1 1 1 1 1 1 1 1
+carestell 1
+carnage 1 1
+carouse 1 1
+carves 1
+cases 1
+cask 1 1
+casket 1
+caucons 1
+cause 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+cave 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+celebrate 1
+celebrating 1
+celestial 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+challenged 1 1 1
+chant 1
+chanting 1 1
+chantrey 1
+chapmans 1
+character 1 1 1 1 1 1 1 1 1 1 1 1 1
+characters 1
+chargers 1
+chariots 1 1
+charm 1 1 1
+charmed 1
+charms 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+chaste 1 1 1 1 1 1 1 1 1 1 1
+chastise 1
+cheapen 1
+checkd 1 1
+cheek 1 1 1 1 1 1 1 1
+cheerful 1 1 1 1 1 1 1
+cheers 1 1
+cheeses 1
+chest 1 1 1
+chests 1
+chiefly 1 1 1
+child 1 1 1 1 1 1 1 1 1
+children 1 1 1 1 1 1 1 1 1 1
+childrens 1
+chios 1 1 1 1 1 1
+chloris 1
+choosing 1
+chosen 1 1 1 1 1 1 1 1 1 1 1
+christian 1 1 1
+circe 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+circle 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+circling 1 1 1 1 1 1 1 1 1 1 1
+circumfluous 1
+circumscribed 1
+circumstances 1
+cities 1 1 1 1
+city 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+claimst 1
+clashing 1
+clasps 1 1 1
+cleansed 1
+cleansing 1
+cleverness 1
+clitus 1
+cloggd 1
+closed 1 1 1 1 1 1 1 1 1 1 1
+cloud 1 1 1 1 1
+clustering 1 1
+coals 1 1
+coast 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+coasting 1
+colony 1
+combined 1 1
+comfort 1 1 1
+commanding 1
+commenced 1
+commend 1 1
+commission 1
+commonly 1
+comparative 1
+compared 1
+compass 1
+compassion 1 1
+competent 1 1 1
+complains 1 1
+complaint 1
+complies 1 1
+composition 1 1 1 1
+comprised 1
+conceal 1 1 1 1 1 1 1 1 1
+conceald 1 1 1 1 1 1 1
+concealed 1 1
+concerning 1 1
+concluded 1
+conclusive 1
+concussion 1
+condemn 1
+conducive 1
+conduct 1 1 1 1 1 1
+confer 1 1
+confide 1 1 1 1 1
+confirmd 1
+conflict 1
+confounds 1 1 1
+confusion 1
+conjure 1
+connection 1
+conquers 1
+conquest 1 1 1 1 1 1 1 1 1
+conscious 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+consecrated 1 1 1 1 1 1
+consent 1
+consented 1
+consents 1
+consignd 1 1 1 1 1 1 1 1
+consistent 1 1 1
+conspired 1 1
+constrain 1 1 1 1 1 1
+constrains 1 1
+consult 1 1 1 1 1 1 1 1 1
+consulted 1
+contained 1
+contains 1 1
+contemning 1
+contemptuous 1
+contend 1 1
+contending 1 1
+content 1 1 1 1
+contentment 1 1
+control 1 1 1 1 1 1 1 1 1
+convenient 1 1
+convey 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+coold 1
+copies 1 1
+copyright 1 1
+cord 1
+corn 1 1 1
+cornel 1
+corroding 1 1
+couchd 1 1 1
+couches 1 1
+council 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+counsel 1 1 1 1 1 1 1 1 1 1 1 1 1
+counsels 1 1 1 1 1 1 1 1 1 1 1 1
+count 1
+countries 1 1
+countrymen 1
+courteous 1 1 1
+covering 1 1
+crack 1
+crackling 1 1 1
+craft 1
+creation 1 1
+crete 1 1 1 1 1 1 1 1 1 1
+cretes 1
+crops 1
+cross 1 1 1 1
+cubits 1
+culminating 1
+cultivation 1
+cumans 1 1
+curb 1
+curbs 1
+curiosities 1
+curling 1 1 1 1
+curse 1 1 1
+customs 1
+cut 1 1 1 1 1 1 1 1 1 1 1 1 1
+cuts 1 1 1 1
+cyclop 1 1 1 1 1 1 1
+cyclopean 1 1 1 1
+cynthia 1
+cypria 1
+dairy 1
+dampd 1
+dancing 1 1
+danger 1 1 1 1 1 1 1 1
+dardan 1
+daring 1 1 1 1 1 1
+darkening 1
+dash 1 1
+dastard 1 1 1
+date 1 1 1 1 1 1 1
+dauntless 1 1 1 1
+dawn 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+dawned 1
+dazzled 1
+deadly 1 1 1
+dearloved 1
+dearly 1 1
+death 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+deathful 1 1 1 1 1 1 1
+debates 1 1 1 1 1
+debauch 1 1
+deceptions 1
+decks 1 1 1
+declare 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+declares 1 1
+declined 1 1 1
+declines 1 1
+decree 1 1 1 1 1 1 1 1 1 1 1 1 1
+deeds 1 1 1 1 1 1 1 1 1 1 1 1
+deemed 1 1
+deems 1
+deep 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+deeppiercing 1
+defect 1
+defend 1 1 1
+deformd 1 1
+defrauding 1
+deignd 1 1 1 1 1
+deigns 1 1
+deities 1
+deity 1
+dejected 1
+delayd 1
+delegate 1 1 1
+delian 1 1
+delicate 1
+delight 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+delivering 1
+deluders 1
+demodocus 1 1 1 1 1 1
+den 1 1 1 1 1 1
+denial 1
+departing 1
+departure 1 1 1 1 1 1
+depictured 1
+depths 1
+desert 1 1 1 1 1 1 1 1 1 1 1 1 1
+deserve 1
+designs 1 1 1
+desires 1 1 1 1 1 1 1
+desolate 1 1
+despite 1
+despotisms 1
+destroy 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+details 1 1 1
+detain 1 1 1 1 1 1 1
+detained 1 1
+detest 1 1
+detests 1
+developed 1 1
+device 1
+devise 1
+devised 1
+devolving 1 1
+devour 1 1 1 1 1 1 1
+devours 1 1 1 1 1 1
+dewy 1 1 1 1 1
+dexterous 1 1 1
+dians 1
+dictate 1 1 1
+dictates 1 1 1 1
+didst 1
+die 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+dies 1 1 1 1 1 1 1 1 1 1
+different 1 1 1 1 1 1
+differing 1
+difficulties 1 1
+dilate 1
+dimmed 1
+diphthera 1
+dire 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+direct 1 1 1 1 1 1 1 1 1
+dis 1
+disappoint 1
+disarrayd 1
+discernible 1
+discharge 1 1
+disclose 1 1 1 1 1 1 1 1 1 1 1 1
+discumbers 1
+discussion 1 1
+disfigured 1
+disguised 1
+dishonours 1
+dislodge 1
+dismayd 1
+dismiss 1 1 1 1 1 1
+dismissd 1 1 1 1
+dispensed 1
+displayd 1 1 1 1 1 1 1 1
+displays 1 1 1 1 1
+disposal 1
+dispose 1 1 1 1 1
+dissipates 1
+dissolved 1 1
+dissonance 1
+distemper 1
+distinguished 1
+distressd 1 1 1 1 1
+distressful 1
+distributed 1
+disused 1
+diurnal 1 1
+dived 1
+divides 1 1 1 1 1 1 1 1
+divines 1
+divinity 1
+divisions 1
+do 1 1 1 1 1 1 1 1 1 1 1 1
+dogs 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+dolius 1
+dolorous 1
+domestic 1 1 1 1 1 1 1 1 1 1 1 1 1
+dominion 1 1
+dotard 1
+doubled 1
+doubles 1
+doubt 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+doubting 1 1
+downrushing 1
+drains 1 1
+dramatic 1
+drank 1 1
+draught 1 1 1 1 1 1 1 1 1
+drawing 1
+dreads 1
+dreamt 1
+drivers 1
+driving 1 1
+droop 1
+drop 1 1 1
+droppd 1 1 1 1 1 1 1 1
+dryads 1
+duel 1
+durst 1
+dusky 1 1 1 1 1
+dust 1 1 1 1 1 1 1 1 1 1 1 1 1
+dusty 1
+duty 1 1 1 1 1 1 1
+dwells 1 1 1 1 1 1 1
+dynameter 1
+eager 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ear 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+early 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+earnest 1 1 1
+earthshaking 1
+eased 1
+eases 1
+eating 1
+echephron 1
+edit 1
+editorial 1 1 1
+eer 1 1 1 1 1
+effeminate 1
+efforts 1 1 1 1
+elephants 1
+elevate 1
+elevated 1
+eloquence 1 1 1 1 1
+eloquently 1 1
+elpenors 1 1
+else 1 1 1 1 1 1
+eluded 1 1
+embarks 1 1 1
+embattled 1
+embracing 1
+emerging 1 1 1 1
+eminence 1
+eminent 1 1
+employ 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+emulates 1 1
+emulous 1
+enable 1
+enamelld 1
+enchanted 1 1
+enchantress 1 1 1 1
+encouraged 1
+ends 1 1 1 1 1 1 1 1 1 1 1
+engage 1 1 1 1 1 1 1 1 1
+english 1 1
+enigma 1
+enipeus 1 1
+enrich 1 1
+enrolld 1
+ensue 1
+enterd 1 1 1
+enters 1
+entertaind 1 1 1
+entrance 1 1
+entwined 1 1
+enunciator 1
+envied 1 1
+epicsthe 1
+epirus 1
+equally 1
+erected 1
+errors 1
+espoused 1
+esteem 1
+eternity 1
+eulogized 1
+eurydice 1
+eurylochus 1 1 1 1 1 1 1 1 1 1 1
+eurymachusfly 1
+eurymedusa 1
+eurynomus 1
+eurytus 1 1
+events 1 1 1 1 1
+everfragrant 1
+evidently 1
+ewer 1 1 1 1 1 1 1
+exacting 1
+exalting 1 1
+examined 1 1
+excel 1 1
+except 1 1 1 1
+exclaims 1 1 1
+exclusion 1
+exercise 1 1 1
+exhales 1 1
+exhauststill 1
+exist 1
+expand 1
+expanded 1 1 1
+expatiate 1
+expect 1 1 1 1 1
+expense 1 1
+explain 1 1 1 1 1
+exploit 1
+explore 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+explored 1
+express 1 1 1 1
+expressive 1 1
+exquisite 1 1
+extends 1 1 1 1 1
+extent 1
+extinguish 1
+extreme 1 1 1
+exult 1
+eye 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+f 1
+faces 1
+faction 1
+factious 1 1
+faded 1 1
+fading 1
+fail 1 1 1 1 1
+fails 1
+faint 1 1 1
+fairhaird 1 1 1
+fall 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+fallacious 1 1
+falls 1 1 1 1 1 1 1 1 1 1
+falsehood 1 1
+famed 1 1 1 1 1 1 1 1 1 1 1 1
+familiarize 1
+fanciful 1
+fanes 1
+fardreaded 1
+fared 1
+farther 1 1 1 1
+fasque 1
+fatal 1 1 1 1 1 1 1 1 1
+fated 1 1 1 1 1
+fattend 1 1
+fattest 1
+faultless 1 1
+faults 1
+favour 1 1 1 1 1 1
+favouring 1 1 1 1 1 1 1 1 1 1 1
+favourites 1
+feard 1 1 1
+feasters 1
+feastrites 1
+featherd 1 1
+feeder 1
+feet 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+feigns 1
+fell 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+fellow 1
+female 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+fence 1 1 1 1
+fenceful 1
+fenceless 1
+fervent 1
+fervour 1 1
+fibres 1
+fiction 1
+field 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+fiery 1 1 1 1 1 1 1
+fighting 1 1
+fightssubdues 1
+figured 1
+figures 1 1 1 1
+file 1 1 1
+final 1 1
+find 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+finishd 1 1 1 1 1
+fish 1 1 1
+fishy 1 1
+fitting 1 1
+flake 1
+flaming 1 1
+flashing 1 1 1 1
+flat 1
+flatter 1 1
+flax 1
+flayd 1 1
+fledged 1
+flitting 1
+floats 1 1 1
+flock 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+flourishd 1 1
+flowed 1
+flowers 1 1 1 1
+flows 1 1 1 1 1 1 1 1 1 1 1 1 1
+flung 1 1 1 1
+flushd 1 1
+fly 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+foaming 1 1 1 1 1 1 1 1 1
+fold 1 1 1 1 1 1 1 1
+follows 1 1
+fonder 1
+foolish 1
+fools 1 1 1 1
+footing 1
+footsteps 1 1 1 1
+forbear 1 1 1 1 1 1 1 1 1 1 1 1
+forbears 1 1
+forbid 1 1 1 1
+forebodes 1 1
+foreign 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+foreseeing 1
+foresees 1
+forests 1 1 1 1 1 1 1
+forget 1 1 1 1 1 1
+forgetfulness 1
+forgive 1
+form 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+formidable 1
+forming 1
+forms 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+fortieth 1
+fought 1
+foul 1 1 1 1 1 1 1 1
+founded 1
+fountains 1 1 1 1 1 1
+fowl 1 1 1 1 1
+frail 1 1 1 1
+frailty 1
+frames 1
+frankincense 1
+frantic 1 1 1
+fraud 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+fraught 1 1 1
+free 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+freeze 1
+french 1 1
+frequented 1 1
+freshening 1 1 1
+friend 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+friendly 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+friendship 1 1 1 1 1
+friendships 1 1
+frolic 1
+front 1 1 1 1
+frown 1 1
+fruit 1 1 1
+fruits 1 1 1 1
+full 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+funeral 1 1
+funereal 1 1 1
+furl 1 1
+furrowd 1 1
+furrows 1
+future 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+gaily 1
+gained 1 1 1
+gale 1 1 1 1 1 1 1
+gales 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+galling 1
+game 1
+games 1 1 1 1 1 1 1 1
+garb 1 1
+garden 1 1 1 1
+gathered 1
+gathering 1 1 1 1 1 1 1
+gaze 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+gems 1
+generally 1 1
+genial 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+genius 1 1 1 1 1 1 1
+get 1
+gets 1
+ghastly 1 1 1 1 1 1
+giant 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+gifted 1
+girding 1
+give 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+gives 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+glades 1 1
+glance 1 1 1
+glazed 1 1
+gleam 1 1
+glitterd 1 1 1
+gloom 1 1 1 1 1 1 1 1 1 1
+glows 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+goal 1 1
+goat 1 1 1 1 1
+goats 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+goatskins 1
+goblets 1 1 1 1 1 1 1
+godhead 1 1 1 1
+goods 1
+gorgon 1
+govern 1
+governs 1
+grace 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+gracefulness 1
+grammarian 1
+grammarians 1 1 1 1
+grandeur 1
+grandsons 1
+grasping 1
+grassy 1 1
+graves 1
+grecians 1 1
+greek 1 1 1 1 1 1 1 1 1 1 1 1 1
+grey 1
+gross 1
+grote 1 1 1 1 1
+groundless 1
+grovel 1
+grovels 1
+guard 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+guarded 1
+guardians 1 1
+guardianship 1
+guards 1
+guile 1 1 1 1 1
+guise 1
+gulfs 1 1 1
+gulfy 1 1 1 1
+gyrae 1
+habitants 1 1 1
+haild 1 1 1
+hair 1 1 1 1
+haird 1
+halfviewless 1
+hall 1 1 1 1 1 1 1 1
+handling 1
+handmaidens 1
+hands 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+handsomely 1
+hangs 1 1 1
+haply 1 1
+happened 1
+happy 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+harbourd 1
+harbours 1 1
+harden 1
+hast 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+hastening 1
+hastes 1 1 1
+hastily 1
+hasty 1 1 1 1 1 1 1 1
+hate 1 1 1 1 1 1 1 1 1 1 1
+have 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+having 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+header 1 1
+heads 1 1 1 1 1 1 1
+heal 1 1 1
+hear 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+heaven 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+heaves 1 1
+heavy 1 1 1 1 1 1
+hecacombs 1
+hecatomb 1
+hector 1
+heed 1 1
+heifer 1
+heifers 1
+heirbut 1
+helen 1 1 1 1 1 1 1 1 1 1 1
+hell 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+hells 1 1 1 1 1 1 1 1
+helm 1 1 1 1 1 1 1 1 1
+helmet 1
+henceforth 1 1 1
+her 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+herald 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+herb 1 1
+herbage 1 1 1 1
+herdsmans 1
+hermaean 1 1
+hesiodas 1
+hexameter 1
+hide 1 1 1 1 1 1 1 1 1
+hides 1 1 1 1 1
+hilly 1
+him 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+hind 1 1 1
+hissd 1
+hissing 1 1
+hoary 1 1 1 1 1 1 1 1 1 1 1
+hold 1 1 1 1
+holy 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+homaeopathic 1
+home 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+homefelt 1
+homeros 1 1
+homeward 1 1 1 1 1
+honour 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+hope 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+hopes 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+horace 1
+horn 1 1 1
+horribly 1
+horse 1 1 1 1
+horses 1 1 1
+hospitable 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+hospitably 1
+hot 1
+hours 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+house 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+however 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+howling 1 1 1 1
+humbler 1 1
+hung 1 1 1 1 1 1 1 1 1 1 1 1 1
+hurts 1 1
+hymens 1
+hymn 1 1 1
+hymns 1
+hyperia 1
+hyperian 1
+hypothesis 1 1 1 1 1
+icarian 1
+icarius 1 1 1 1 1 1
+idealizednuma 1
+identifies 1
+idle 1 1 1 1
+ignorance 1 1
+ii 1
+iliad 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ill 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+illrestraind 1
+ills 1 1 1 1 1 1 1
+illsuiting 1
+illustriously 1
+ilus 1 1
+image 1 1 1 1 1 1 1 1
+imbibe 1
+imbrownd 1
+immeasurable 1 1
+immigrants 1
+impassive 1 1 1
+impatient 1 1 1 1 1 1 1 1 1 1 1 1
+impenetrably 1
+imploring 1
+impressionsnay 1
+improve 1
+imprudence 1
+impulses 1 1 1
+impurpled 1
+incase 1
+incased 1 1
+inclement 1 1 1 1 1 1
+inclined 1 1 1 1
+incongruity 1 1
+inconsistency 1 1
+inconsistent 1 1
+increase 1 1 1 1 1 1 1 1
+increasing 1
+incursion 1
+indebted 1
+indeed 1 1 1 1 1 1
+indelible 1
+individual 1 1 1
+indulge 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+indulgent 1 1 1
+indulging 1 1
+inexorable 1
+inflames 1
+inflicted 1
+inflicts 1
+inform 1
+informing 1
+ingenious 1 1
+ingrate 1
+ingredient 1
+inheritance 1
+injustice 1 1
+inlypining 1
+innocence 1
+innumerous 1
+inquirst 1
+inquiry 1 1
+inquisitive 1
+insatiate 1
+inscriptions 1
+insidious 1 1 1 1 1
+insinuating 1
+insists 1
+insolvable 1
+inspire 1 1 1 1 1 1 1 1
+instigation 1
+instinct 1 1
+instrument 1 1
+insult 1 1
+insults 1 1 1
+intention 1
+intentive 1
+intercept 1 1 1 1 1 1 1 1
+interpolation 1
+interposed 1
+interrupts 1
+intervals 1 1
+intonations 1
+investigations 1 1
+involves 1
+inwrought 1 1 1
+ionia 1
+ionian 1
+ireful 1
+iron 1 1 1 1 1
+is 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+itselfa 1
+jaggy 1
+jardan 1
+jasons 1
+jaws 1 1 1
+jealously 1 1
+join 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+journeyd 1
+jovedescended 1 1
+joyful 1 1 1 1 1 1 1 1
+joys 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+judge 1 1 1 1 1 1 1 1
+junos 1
+juster 1 1
+justice 1 1 1 1
+justly 1 1 1
+kallinus 1 1 1
+keen 1 1 1 1 1 1
+keepers 1
+killd 1
+kindled 1 1 1 1
+kindred 1 1
+kingdoms 1
+kisses 1
+knife 1 1
+know 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+knowing 1
+kuster 1
+laborious 1 1 1 1
+labour 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+lachmanns 1 1
+laestrygons 1 1 1
+lagging 1
+lair 1 1
+lambs 1 1 1 1
+laments 1
+landor 1
+lands 1 1 1 1 1 1 1 1 1 1 1 1
+landscape 1 1
+languish 1 1
+laodam 1 1
+lappd 1
+larger 1 1
+lash 1 1
+lastly 1
+late 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+latest 1 1
+launched 1
+laver 1 1 1 1 1
+laws 1 1 1 1 1 1 1 1 1 1 1 1 1
+leads 1 1 1 1 1 1 1 1 1 1 1 1 1
+leapd 1 1
+leaps 1
+learns 1 1
+leaves 1 1 1 1 1 1 1 1 1 1 1
+legal 1 1
+legions 1
+lemnian 1
+lengthend 1 1
+lesbian 1 1
+lest 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+leviathan 1
+libation 1 1 1 1 1 1 1
+liberty 1
+licence 1 1
+lid 1
+lieu 1
+lifesustaining 1
+lighted 1 1
+lighten 1 1
+lightly 1
+lightning 1 1 1
+limbs 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+limpid 1 1 1 1 1
+lintels 1
+lip 1 1 1
+lips 1 1 1 1 1
+listed 1
+literature 1 1 1
+lived 1 1 1 1 1
+lively 1
+loaded 1 1 1 1 1 1
+loaves 1
+loiter 1
+lonely 1 1 1 1 1 1 1 1
+long 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+longcontinued 1 1
+longexpected 1 1
+longinus 1
+longwearied 1
+look 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+loosed 1 1 1
+loquacious 1
+lords 1 1 1 1 1 1 1
+lose 1 1 1 1 1 1 1
+lot 1 1 1 1 1 1
+lotophagi 1 1
+lots 1 1 1 1
+lotus 1 1
+loud 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+loudly 1
+loved 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+lovedittied 1
+loves 1 1 1 1 1 1 1 1 1 1
+lowers 1
+lucid 1 1 1
+lun 1
+lurk 1
+lurks 1 1
+lustre 1 1 1 1 1 1 1 1
+lusty 1
+luxuriant 1 1 1
+lybian 1
+lycians 1
+made 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+madness 1
+magnificence 1 1
+majestically 1
+manage 1
+mane 1
+manifests 1
+mans 1 1 1 1 1 1 1
+mansions 1 1
+mantes 1
+mantled 1
+mantling 1
+manuscripts 1 1 1 1 1 1 1 1
+manylanguaged 1
+marathon 1
+margins 1
+master 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+materials 1 1
+maternal 1
+matron 1 1 1 1 1 1 1
+maw 1
+maze 1
+meals 1
+meaning 1
+means 1 1 1 1 1 1 1 1 1 1 1 1
+mediates 1
+medical 1
+meed 1 1
+melesigenes 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+mellowing 1
+melodious 1
+melting 1 1
+menace 1
+menaces 1
+mendicant 1
+mercy 1 1 1
+mercys 1
+meridian 1
+message 1 1
+messenger 1 1 1 1 1 1 1 1
+met 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+metal 1 1
+midnightdream 1
+mighty 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+milk 1 1 1 1 1
+mill 1
+mindful 1 1 1
+mine 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+mingle 1 1
+mingling 1 1 1 1
+minister 1
+ministerd 1
+minos 1 1
+minute 1 1 1 1 1 1
+minutiae 1
+miracles 1
+mirth 1 1 1 1 1 1
+mirthful 1 1 1
+miscalld 1
+mislead 1
+missile 1 1
+mistrusts 1
+mockery 1
+mocks 1 1
+modest 1 1 1 1 1 1 1 1
+moly 1 1
+monarchs 1 1 1 1 1 1
+monsters 1 1 1 1 1 1 1
+month 1
+moon 1 1 1 1 1 1 1
+moord 1 1
+morbid 1
+morrows 1
+mortal 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+mortals 1 1 1 1 1 1 1 1
+most 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+mothers 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+motives 1
+mould 1 1 1 1 1 1 1 1 1
+mountains 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+mounts 1 1 1 1 1 1
+mourn 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+mournd 1 1 1 1 1 1
+mouths 1 1 1 1
+mr 1 1 1 1
+mule 1
+multitudes 1 1
+murderous 1 1 1 1 1 1 1 1 1 1
+mutterd 1 1
+my 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+mythical 1
+naild 1
+naming 1
+narrating 1
+narration 1 1 1
+narrowest 1
+natal 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+national 1 1 1 1
+natives 1 1
+nature 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+near 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+nearer 1 1
+nearest 1 1 1
+neck 1 1 1 1 1
+necks 1
+nectareous 1 1
+need 1 1 1
+neer 1 1 1 1
+negative 1
+neglect 1
+negligence 1
+neighbour 1 1
+neign 1
+neon 1
+nereids 1 1
+nerve 1 1 1
+net 1
+nether 1 1
+newlyformed 1
+niggard 1
+nights 1 1 1 1 1 1 1 1 1 1
+nine 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+nobler 1 1 1 1 1 1 1
+nobles 1 1 1 1 1
+nodding 1 1 1 1
+nods 1
+noise 1 1 1 1
+noisy 1
+north 1 1 1 1
+northern 1 1 1 1 1
+nose 1
+nosooner 1
+nostrils 1
+not 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+note 1 1 1
+noticed 1
+noting 1
+notno 1
+nurse 1
+nurtured 1
+oard 1 1
+oath 1 1 1 1 1 1 1
+obey 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+obeyd 1 1 1 1 1 1 1 1 1 1 1 1
+object 1 1 1 1 1 1 1 1
+obliquely 1
+oblivious 1 1
+obsequious 1 1 1 1 1
+observe 1 1 1 1
+obtaind 1
+obtaining 1
+occurrences 1
+odyssea 1
+odysseid 1
+odyssey 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+oeraching 1
+oercast 1
+oerflows 1
+oerfly 1
+oerlookd 1
+offence 1 1 1
+offend 1 1
+offended 1 1
+offerd 1 1
+offering 1 1 1 1 1 1
+oicleus 1
+oil 1 1 1 1 1 1 1
+oilean 1
+olive 1 1
+omens 1 1 1 1 1 1
+onward 1
+oozy 1
+openings 1
+opposing 1
+ops 1 1
+ordain 1 1 1 1 1 1 1 1
+order 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+orderd 1 1
+orient 1 1 1 1 1 1 1 1
+original 1 1 1 1 1 1 1
+originally 1 1
+orions 1 1
+ornament 1
+orphan 1 1 1
+osiers 1 1 1
+others 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+otus 1
+outflies 1
+outline 1
+outrage 1
+oval 1
+overlooks 1
+overtakes 1
+owe 1 1 1 1 1 1 1 1 1
+owes 1 1
+owning 1
+oxen 1 1 1 1 1 1 1
+pail 1
+palacegates 1
+pallas 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+palm 1
+pampered 1
+panting 1 1 1 1 1 1
+parentshade 1
+parody 1 1
+partake 1 1
+parted 1 1 1 1
+partial 1 1 1
+particularly 1 1
+partook 1
+pass 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+passd 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+pastimes 1 1
+pasture 1 1
+patch 1 1
+path 1 1 1
+patience 1
+patient 1 1 1 1 1 1 1 1 1 1 1 1 1
+pause 1 1
+peasants 1 1
+peloponnesian 1
+pen 1 1
+perfected 1
+perfectly 1
+perform 1 1
+performance 1
+perfumed 1
+perhaps 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+perishd 1 1 1 1 1 1 1
+pero 1 1
+perraultavowed 1
+persephone 1
+perverse 1
+phaeacia 1 1 1 1 1 1
+phaestan 1
+pharian 1 1 1 1 1
+philacus 1
+phocaea 1 1
+phoebus 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+phoenecias 1
+phoenician 1 1 1 1
+phrase 1
+phraseologya 1
+phrygian 1 1 1 1 1 1 1 1 1
+piecing 1
+pierced 1 1 1 1 1
+pierias 1
+piety 1 1
+pigrees 1
+pinches 1
+pine 1 1 1
+pipes 1
+pirous 1
+pisenors 1
+pitied 1 1
+pittance 1
+places 1 1
+plain 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+plaintive 1
+plan 1 1 1
+planted 1
+plato 1 1
+pleasure 1 1 1 1 1 1 1 1
+plenteous 1 1 1 1 1
+ploughman 1
+plow 1
+plumage 1
+plunge 1 1 1 1 1 1 1 1 1
+pluralist 1
+plutos 1 1 1 1
+poemsthe 1
+poet 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+poetasters 1
+polish 1
+polished 1
+polypheme 1 1 1
+pomegranate 1 1
+pompous 1 1 1
+ponder 1
+pope 1 1 1 1 1 1
+poplarleaves 1
+populace 1
+portion 1 1 1 1 1 1 1 1
+positive 1 1 1
+possessd 1 1 1 1 1 1 1 1 1 1 1 1 1
+possible 1 1 1
+poutonous 1
+powerful 1 1 1 1 1 1 1 1 1 1
+powerless 1
+practice 1 1 1
+praise 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+prayed 1
+precede 1
+precepts 1 1 1
+precious 1 1 1 1
+preeminent 1
+preexisting 1 1
+prefer 1 1 1
+prepares 1 1 1 1 1 1
+presage 1
+presumed 1
+prevailing 1
+prevails 1 1 1 1
+prevent 1 1 1
+previous 1
+prides 1
+principles 1 1
+print 1 1
+probable 1
+proceeds 1 1 1 1 1 1
+procris 1
+procured 1
+prodigy 1
+production 1
+profaned 1
+professed 1
+profit 1
+profitable 1 1
+profusely 1
+progeny 1
+progress 1 1
+projected 1
+prolific 1 1 1
+promiscuous 1 1 1 1
+promising 1
+promontorys 1
+prompt 1 1 1
+pronounce 1
+prophecies 1 1 1
+prophetic 1 1 1 1 1 1
+propitious 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+proserpines 1
+protect 1 1
+protected 1
+protecting 1 1
+protection 1 1
+prove 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+providence 1 1 1
+provokes 1
+prowess 1 1 1
+prowling 1
+prythee 1
+psyrian 1
+public 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+publication 1
+publicthey 1
+publish 1
+published 1 1
+publishers 1
+purely 1
+purest 1 1
+puts 1
+pylein 1
+pylian 1 1 1 1 1 1 1
+pylians 1
+pylos 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+pyre 1 1
+quaint 1
+queens 1 1 1
+quenchd 1 1
+quest 1 1
+questions 1
+quickly 1 1
+quilts 1
+quiver 1 1
+quivers 1
+race 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+railing 1
+raind 1 1
+rains 1 1 1
+rams 1
+range 1 1 1 1 1 1
+rankd 1
+rapid 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+rashness 1 1
+ratify 1
+ravish 1
+reaches 1
+ready 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+realized 1
+reasonableness 1
+reassumes 1
+rebels 1
+rebuked 1
+recalld 1
+recalls 1
+receding 1
+recees 1
+receive 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+received 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+receiving 1 1
+recitation 1
+recitative 1
+reciter 1
+reclosed 1
+recommends 1
+reconsider 1
+record 1 1 1 1 1
+recount 1
+recumbent 1
+redden 1
+reddening 1 1 1 1
+redhot 1
+redistributing 1
+redress 1 1 1 1 1
+reeking 1 1
+referred 1
+refined 1 1 1 1 1 1
+refunds 1 1
+refutes 1
+regaind 1
+regards 1
+reigns 1 1 1 1 1 1 1 1
+rein 1 1 1 1 1
+reins 1 1 1
+relating 1 1
+release 1 1 1 1
+released 1 1 1
+relentless 1 1 1 1 1
+relics 1 1 1
+relief 1 1
+relies 1
+remain 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+remaind 1 1 1 1 1 1 1 1
+remember 1 1
+rememberd 1
+remodelled 1
+removal 1 1
+removed 1 1 1 1
+renew 1 1 1
+renewd 1 1 1 1 1
+renown 1 1 1 1
+repast 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+repasts 1
+repel 1 1
+replenishd 1 1 1 1
+replied 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+reply 1 1 1 1 1 1 1 1 1 1
+repossess 1
+repressd 1 1 1 1
+resailing 1
+rescued 1
+resents 1
+reserve 1 1
+reserved 1 1 1 1 1
+resolves 1
+resound 1 1 1 1 1 1 1
+resounded 1
+respecting 1 1 1 1 1 1 1 1
+respite 1
+resplendent 1 1
+resumed 1 1
+resumes 1 1 1
+resuming 1
+retires 1 1
+retossd 1 1
+revealed 1
+reveals 1 1 1 1
+revenues 1
+reverse 1 1
+reversed 1 1
+review 1 1 1 1 1 1 1 1
+rhexenor 1 1
+ribbd 1
+ride 1 1 1 1 1
+rightlier 1
+rings 1
+riot 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ripend 1
+rises 1
+river 1 1 1 1
+roarings 1 1
+roars 1 1 1 1 1 1 1
+robbd 1 1
+rocks 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+rode 1 1
+roll 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+romances 1
+romulus 1
+roof 1 1 1 1 1 1 1 1 1 1 1 1 1
+rooms 1 1 1
+roots 1 1
+rosyfingerd 1
+rosyfingered 1
+round 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+rouse 1
+rout 1 1
+roved 1
+row 1 1
+rude 1 1 1 1 1 1 1 1 1 1 1 1
+rue 1
+ruffling 1
+rulers 1 1 1 1
+rumbling 1 1
+rumours 1 1
+rung 1 1
+running 1
+runs 1 1 1
+rural 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+rush 1 1 1 1 1 1 1 1 1
+sabre 1
+sacks 1
+sacrifice 1 1 1 1 1 1 1 1 1 1 1 1 1
+sad 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+safely 1 1 1 1 1
+safest 1
+sagacity 1 1
+sailor 1 1
+sailors 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+sand 1 1 1 1 1 1 1 1 1 1 1
+sands 1 1 1 1 1 1 1
+sanguine 1 1
+sate 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+satisfaction 1 1 1
+sawst 1
+scales 1
+scaliger 1
+scaly 1 1 1
+scanty 1
+scaping 1
+scent 1 1 1
+scheme 1 1
+scherian 1 1
+school 1 1 1 1 1
+scoops 1 1
+scorching 1 1
+scornd 1 1
+scornful 1
+scorns 1 1 1
+scott 1
+scour 1
+scourge 1 1 1
+scourges 1
+screaming 1
+sculpturd 1
+sculptured 1
+scyros 1
+seabeat 1 1 1
+seafowl 1
+seagirt 1 1
+seagreen 1 1
+seamen 1
+search 1 1 1 1 1 1 1 1
+searchd 1
+searches 1
+secession 1
+securely 1 1 1 1 1 1 1
+seducements 1
+seek 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+seeking 1 1
+seemed 1
+seest 1 1 1
+seized 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+selfbanished 1
+selfconsidering 1
+selfexistent 1
+semblance 1 1 1 1 1
+seneca 1 1
+seneschal 1
+senses 1
+services 1
+settle 1 1
+severely 1 1
+sewer 1
+shaded 1 1 1 1 1 1
+shades 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+shaft 1 1 1 1
+shafted 1
+shaker 1
+shalt 1 1 1 1 1 1 1 1 1 1 1 1
+shatterd 1
+shears 1
+shelter 1 1 1 1
+shew 1
+shine 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+shipwrecked 1 1
+shipwright 1 1
+shook 1 1 1 1 1 1 1 1 1 1
+shoots 1 1
+shoulders 1 1 1 1 1 1 1 1 1 1
+shout 1 1 1
+shows 1 1 1 1 1
+shrilling 1 1 1
+shroud 1 1 1
+shrouds 1 1 1 1
+shut 1 1
+sickness 1
+sidons 1
+sift 1
+sifted 1
+signal 1 1 1 1
+silent 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+simenides 1
+similar 1 1 1
+simonides 1 1
+simple 1 1 1
+sin 1
+sincere 1 1 1 1 1 1 1 1 1 1 1
+singly 1 1
+sings 1 1 1 1 1 1 1 1 1 1
+sir 1 1 1
+sisyphian 1
+sisyphus 1
+sits 1 1 1 1 1
+sixteen 1 1
+sixth 1 1
+sketch 1
+skies 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+skilld 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+sky 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+slackend 1
+slave 1 1 1 1 1 1 1 1 1 1 1
+slay 1 1 1 1 1 1
+sleeping 1 1 1
+sleepy 1
+slept 1 1 1 1 1 1 1 1 1
+slew 1 1 1 1
+slippd 1
+slow 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+slowcircling 1
+slowly 1 1 1
+slowpacing 1
+slumbers 1 1 1 1 1 1 1 1 1
+smaller 1 1
+smallest 1
+smile 1 1 1 1
+smouldering 1
+snatch 1 1
+snoring 1
+so 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+soars 1
+sobs 1 1
+socrates 1 1 1
+soft 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+sojournd 1
+solar 1
+solitary 1 1 1 1
+solon 1 1 1 1
+some 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+songs 1 1 1 1 1 1 1 1 1 1 1
+soothe 1 1 1
+sources 1
+southeast 1
+sparkled 1
+sparkling 1 1 1
+sparta 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+spartan 1 1 1 1 1 1 1 1 1 1 1 1
+speaking 1 1 1 1
+spears 1 1 1
+sphere 1 1
+spies 1 1 1 1 1
+spire 1
+spires 1
+splitting 1
+sport 1 1 1 1 1
+sportive 1
+spot 1
+spotted 1
+spouting 1 1
+spouts 1 1
+spread 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+spreading 1 1 1 1 1 1
+spreads 1 1 1 1 1 1 1 1 1 1 1
+springing 1 1 1 1 1
+springs 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+sprinkled 1 1 1
+staggering 1
+staind 1
+stamped 1
+star 1 1
+starry 1 1 1 1 1 1 1 1
+start 1 1 1 1
+starting 1 1
+stay 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+steep 1 1 1 1
+steer 1 1 1 1 1 1 1 1
+stemmd 1
+stench 1
+steps 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+stern 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+stesichorus 1
+sties 1 1 1
+stiff 1 1 1
+stiffer 1
+stipend 1
+stolen 1
+stores 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+storied 1 1
+storms 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+strangerguest 1 1 1 1 1 1
+strangers 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+strayd 1 1 1 1 1 1
+streamed 1
+strechd 1
+strengthen 1
+strengthend 1
+stretch 1 1 1 1 1 1 1 1 1 1 1
+strewd 1 1 1 1
+strewn 1
+strict 1
+strike 1 1 1 1 1 1 1 1
+strip 1 1
+stronger 1
+strove 1 1 1 1
+stubble 1
+studded 1
+stung 1 1 1 1 1 1 1
+stupidity 1
+sty 1
+subdues 1
+subjected 1
+submission 1 1
+submits 1 1 1 1
+subsides 1 1 1 1
+succeeded 1 1
+successful 1
+succour 1 1 1 1
+sudden 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+sue 1
+suffering 1 1 1 1
+sufferings 1 1 1
+suffice 1 1 1 1 1 1 1 1 1 1 1
+suffices 1 1
+suggesting 1
+suit 1 1 1 1 1 1 1 1 1 1 1
+suitor 1 1 1 1 1 1 1
+suitors 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+suitortrain 1 1 1
+sulphur 1
+sulphurous 1 1
+sum 1 1 1 1
+summer 1 1 1
+sumptuous 1
+sunnyside 1
+sup 1
+supine 1 1 1
+supplies 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+supported 1 1
+supposed 1 1 1 1
+supreme 1 1 1 1 1 1 1
+supremest 1
+surcharged 1
+sure 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+surefounded 1
+surer 1
+surface 1 1
+surmise 1 1
+surpassd 1 1
+surpassed 1 1
+surprise 1 1 1 1 1 1 1 1 1 1 1
+surrounding 1 1 1
+suspect 1
+suspense 1
+sustains 1 1 1
+sustenance 1
+swam 1
+sweepy 1 1
+sweetend 1
+sweetest 1 1
+swimming 1
+swine 1 1 1 1 1 1 1
+sworn 1 1
+swung 1
+sympathized 1
+systemwhich 1
+tables 1 1 1
+taint 1 1 1 1
+tallure 1
+task 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+tatterd 1 1 1
+taught 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+taunts 1 1 1 1
+teach 1 1 1 1
+tear 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+tedium 1
+teeming 1 1 1
+teichos 1
+telemus 1
+telling 1
+temese 1
+temper 1 1
+temperd 1 1 1
+tempestuous 1 1 1
+tempts 1
+tenacious 1
+tendencies 1
+tendency 1
+tenth 1 1 1 1 1 1
+terrific 1 1 1 1 1 1
+terror 1 1 1
+test 1 1
+texture 1 1 1 1 1
+theatres 1
+thebes 1 1 1
+thence 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+theodore 1
+theories 1 1 1 1 1 1 1 1
+theorists 1
+these 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+thetis 1
+they 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+thickend 1
+thickened 1
+thickening 1
+thickens 1
+thicket 1 1
+things 1 1 1 1 1 1 1 1 1 1 1
+thinking 1 1 1 1 1
+thither 1 1 1 1 1 1 1
+thoon 1
+thorn 1
+those 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+thou 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+though 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+thoughtful 1 1 1 1
+thoughtless 1 1 1 1
+thrace 1
+thriceeared 1
+thriving 1
+throats 1
+throng 1 1 1 1 1 1
+thronging 1 1
+throughout 1
+thy 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+tiar 1
+tibullus 1
+tied 1 1 1 1 1
+timed 1
+times 1 1 1 1 1 1 1 1 1 1 1 1 1
+tiresome 1
+tlepolemus 1
+today 1
+toil 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+tolerably 1
+tongued 1
+took 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+tools 1
+tore 1 1 1 1 1 1
+torrents 1 1
+tossed 1
+tossing 1 1
+total 1 1
+touchstone 1
+towering 1 1 1 1
+towery 1 1 1
+toy 1
+tracks 1 1 1 1
+tradition 1 1 1 1 1 1
+traditional 1 1
+traditions 1 1
+traitors 1 1 1
+traitress 1 1
+trampling 1
+transcript 1
+transform 1
+transforms 1
+transmitted 1
+transparent 1
+transported 1 1 1 1 1
+travels 1 1
+traverse 1
+tread 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+treads 1 1 1 1 1 1 1 1 1 1 1 1 1
+treadst 1 1
+treat 1 1
+treats 1
+trees 1 1 1 1 1 1 1 1 1
+trembled 1 1 1
+trembles 1 1 1
+tripods 1 1
+tristram 1
+triumph 1 1 1
+triumphant 1 1
+trod 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+trojans 1 1
+troops 1
+trophies 1
+troubled 1 1 1 1
+troy 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+truly 1
+trusts 1
+trustworthy 1 1
+truths 1 1
+try 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+tumbled 1
+turnd 1 1 1 1 1 1 1 1 1 1 1 1
+turningpoint 1
+tusks 1
+twanging 1 1
+twentieth 1
+twice 1 1 1 1 1 1 1 1 1 1 1 1 1
+tyndars 1
+tyrant 1 1
+ulyssean 1 1
+ulysses 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ulyssesdeeper 1
+unable 1 1 1 1 1
+unapparent 1 1
+unavailing 1 1
+uncertainty 1 1 1
+under 1 1 1 1 1 1 1 1 1 1
+undergone 1
+undeserving 1
+undried 1
+unenvied 1
+unerring 1 1 1
+unfledged 1
+unfolds 1
+unforeboding 1
+unfortunate 1 1
+unfrequented 1
+ungrateful 1 1 1 1 1 1
+unguents 1 1 1 1 1 1
+unharnessd 1
+uniform 1
+union 1 1 1 1
+unjustly 1 1
+unkindly 1 1
+unknowing 1 1
+unlockd 1
+unmeasured 1 1 1
+unmoor 1
+unmoord 1
+unnerved 1
+unnerves 1
+unperceived 1 1
+unpolishd 1 1
+unprosperous 1
+unresisted 1
+unruly 1 1
+unsafe 1
+unsavoury 1 1
+unseen 1 1 1 1 1 1 1 1 1 1 1
+unsincere 1
+unstrung 1
+unsustaind 1
+untamed 1
+untasted 1 1
+untied 1 1
+untruths 1
+untutord 1
+unveils 1 1
+upborne 1
+upheld 1 1
+upsoard 1
+upturns 1
+urges 1
+usage 1 1
+useful 1
+usual 1 1
+utter 1
+vacant 1 1 1 1
+vagrants 1 1
+vaini 1
+valley 1
+vanish 1
+vanishes 1
+vapours 1 1 1 1
+vassals 1 1
+vast 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+vaunts 1 1
+veil 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+veils 1 1
+venerable 1 1 1 1
+vengeance 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+verge 1 1 1 1 1 1
+verses 1 1 1 1
+vessels 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+vestbut 1
+vestures 1 1 1 1 1 1 1
+vexation 1
+viands 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+vicissitude 1
+vicissitudes 1
+victim 1 1 1 1 1 1 1 1
+viewless 1 1 1 1
+vigour 1 1 1
+vile 1 1 1 1 1 1 1
+villainy 1
+violate 1 1
+virgins 1 1 1 1 1 1
+visibly 1
+vision 1 1 1 1 1 1 1 1 1 1 1 1
+visionary 1 1 1 1
+visit 1 1 1 1 1 1 1 1
+volumes 1 1
+voted 1
+vow 1 1 1 1
+voyager 1 1
+voyaging 1 1 1
+vulcan 1 1 1 1 1 1 1 1 1
+vulcanian 1
+waist 1 1
+waked 1 1 1
+wallowing 1
+wand 1 1 1 1 1 1 1 1 1 1 1
+wanders 1 1 1 1 1
+want 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+warbled 1 1
+wardrobe 1
+warm 1 1 1 1 1 1 1 1 1 1 1
+warms 1 1 1 1 1 1 1
+warriorgoddess 1
+warriorhost 1
+wartriumphant 1
+was 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+wash 1 1 1 1 1 1 1 1
+waste 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+watch 1 1 1 1
+watchful 1 1 1 1 1 1
+waterd 1
+waved 1 1 1 1 1
+waves 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+weak 1 1 1 1
+weakness 1
+wearers 1
+web 1
+wed 1 1 1 1
+wedge 1
+weedy 1
+weigh 1 1 1 1 1 1 1
+welcome 1 1 1 1 1 1 1 1 1 1 1 1
+well 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+welldissembled 1
+wellfed 1
+wellknown 1 1 1 1
+wellrowd 1
+welter 1
+wept 1 1 1 1 1 1 1 1 1
+western 1 1 1 1 1 1 1 1 1 1
+whateer 1 1 1 1 1 1 1 1 1
+wheat 1 1 1 1
+wheaten 1
+wheel 1 1
+wheeld 1 1
+wheels 1 1 1 1 1
+whelm 1
+whelming 1 1 1 1 1 1
+when 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+wheneer 1 1
+which 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+while 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+whirls 1 1 1 1 1
+whirlwinds 1 1
+whistle 1 1
+white 1 1 1 1 1 1 1 1 1 1 1 1
+whiten 1
+whoeer 1 1 1 1 1 1 1
+whom 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+whose 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+wideextended 1
+wider 1 1 1
+wield 1 1 1 1 1 1 1 1 1
+wildly 1
+willd 1 1 1 1
+willing 1 1 1 1 1 1 1 1 1 1 1 1 1
+willows 1
+wills 1 1 1 1 1
+wimbles 1
+wind 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+wipe 1
+wisest 1 1 1 1
+wished 1
+wishes 1 1 1 1 1
+with 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+withdrew 1 1 1 1 1 1 1 1 1
+within 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+withstands 1
+withstood 1
+wives 1 1 1 1 1
+wolves 1
+woman 1 1 1 1 1 1 1 1 1
+wonders 1 1 1 1
+wonted 1
+wooden 1
+woods 1 1 1 1 1 1 1 1
+word 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+wordy 1 1
+worlds 1 1
+would 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+wounded 1 1
+wrappd 1 1 1 1 1 1 1 1 1 1 1
+wrathful 1
+wreathd 1
+wrote 1 1
+x 1
+xenophon 1 1
+xiv 1
+xvi 1
+yards 1 1
+yell 1 1
+yester 1
+yet 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+yield 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+yonder 1 1 1 1 1 1 1
+young 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+youngest 1 1 1 1
+yourselves 1 1
+youthful 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+youths 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+zaccynthus 1
+zacinth 1
+zacynthas 1
+zephyrus 1

@@ -1,0 +1,6 @@
+Processing input chunk: "/usr/class/cs110/samples/assign7-soln/files/reduce-input/0.grouped".
+Reducer exit code: 0.
+Processing input chunk: "/usr/class/cs110/samples/assign7-soln/files/reduce-input/2.grouped".
+Reducer exit code: 1.
+Processing input chunk: "/usr/class/cs110/samples/assign7-soln/files/reduce-input/2.grouped".
+Reducer exit code: 0.

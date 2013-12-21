@@ -1,0 +1,9 @@
+syntax: glob
+*.o
+tsh
+tsh-parse-test
+myint
+myspin
+mysplit
+mystop
+mycat
